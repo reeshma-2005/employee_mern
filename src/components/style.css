@@ -1,0 +1,24 @@
+h1{
+    text-align: -webkit-center;
+    background-color: #3fdf6f;
+    margin-top: 0;
+    padding: 20px;
+    color: white;
+}
+.emp-add{
+    
+    background-size: 100% 800px;
+    color: white;
+    margin-right: 0px;
+    margin-left: 1px;
+    margin-bottom: 50px
+}
+
+.emp{
+    background-color: #58062c;
+    border-radius: 10px;
+    border:2px solid white;
+    padding: 15px;
+    margin: auto;
+
+}
